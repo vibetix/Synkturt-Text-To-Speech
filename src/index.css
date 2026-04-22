@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #cce6ec;
+  --color-brand-pink: #e4aab7;
+  --color-brand-yellow: #f5e6d6;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  button, a, input[type="button"], input[type="submit"], [role="button"] {
+    cursor: pointer;
+  }
+}
+
+@layer utilities {
+  .bg-pastel-waves {
+    background-image: url('/auth-bg.png'),
+      radial-gradient(circle at 15% 20%, rgba(245, 230, 214, 0.8) 0%, transparent 45%),
+      radial-gradient(circle at 85% 15%, #cce6ec 0%, transparent 50%),
+      radial-gradient(circle at 50% 85%, #e4aab7 0%, transparent 55%),
+      radial-gradient(circle at 10% 80%, rgba(228, 170, 183, 0.4) 0%, transparent 50%),
+      linear-gradient(135deg, #fdfdfd 0%, #edf5f7 100%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
