@@ -1,15 +1,4 @@
 # Synkturt - Text-to-Speech Application
-
-<div align="center">
-  <img width="1200" height="475" alt="Synkturt Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-  
-  A modern, beautifully designed Text-to-Speech (TTS) web application UI built with React, TypeScript, and Tailwind CSS.
-
-  **[Live Demo](#)** · **[Documentation](#getting-started)** · **[Report Bug](#issues)** · **[Request Feature](#contributing)**
-</div>
-
----
-
 ## 📌 About Synkturt
 
 Synkturt is a frontend showcase of a modern Text-to-Speech application. It empowers creators, learners, and professionals by providing a user-friendly interface for transforming text into natural-sounding speech. Whether you need narration for videos, accessible audio versions of articles, or quick voiceovers, Synkturt delivers a polished, intuitive experience directly in your browser.
