@@ -257,8 +257,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have questions or need support:
 
 - **Issues:** [GitHub Issues](https://github.com/vibetix/Synkturt-Text-To-Speech/issues)
-- **Email:** support@synkturt.com
-- **Website:** [synkturt.com](#)
+- **Email:** info.vibetix@gmail.com
+- **Website:** [synkturt.com](https://vibetix.github.io/Synkturt-Text-To-Speech/)
 
 ---
 
@@ -269,7 +269,7 @@ If you find this project useful, please consider giving it a star! It helps othe
 ---
 
 <div align="center">
-  Made with ❤️ by the Synkturt Team
+  Made with ❤️ by the Vibetix
 </div>
 - **Dashboard**: Interactive TTS editor with transcript viewer
 - **Login**: Email/password login with social auth placeholders
